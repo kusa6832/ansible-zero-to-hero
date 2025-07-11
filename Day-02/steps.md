@@ -1,4 +1,4 @@
-login to worker nodes and 
+login to worker nodes and perform
 sudo passwd ubuntu
 go to file and change to yes
 after that sshd_config file got line 66 and chnage to yes
